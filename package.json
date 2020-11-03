@@ -1,0 +1,15 @@
+{
+  "name": "chili-dap-demo-vercel",
+  "version": "1.0.0",
+  "description": "CHILI Dynamic Asset Provider Demo",
+  "main": "",
+  "scripts": {
+    "test": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.9.3"
+  }
+}

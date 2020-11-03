@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/image/data.js": {
+      "includeFiles": "images/**"
+    }
+  }
+}
