@@ -22,7 +22,7 @@ module.exports = (req, res) => {
 
     const dimensions = sizeOf(image);
     const xml = ``
-        +`<item name="${name}">`
+        +`<item name="${name}.jpg">`
         + `<fileInfo resolution="72" width="${dimensions.width}" height="${dimensions.height}">`
         + `<metaData>`
         + `<width>${dimensions.width}</width>`
